@@ -43,5 +43,6 @@ Jigs
 Airs
 ----
 
+* [The Eastern Townships](townships.html)
 * [Lament for Jeff Ar Penven](penven.html)
-
+* [The Sleeping Tune](sleeping.html)
