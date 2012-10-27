@@ -3,7 +3,8 @@ layout: default
 title: The Newington Collection of Pipe Tunes
 ---
 
-The whole collection: [abc](newington.abc) [pdf](newington.pdf)
+Download the whole collection:
+[abc](newington.abc) [pdf](newington.pdf)
 
 Marches
 -------
