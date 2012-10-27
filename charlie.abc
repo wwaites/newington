@@ -1,0 +1,39 @@
+X:2
+T:Charlie's Welcome
+R:Reel
+M:C|
+L:1/8
+K:Hp
+{g}A2{GdGe}A>{d}B {g}e2{AGAG}A<a |\
+[1 A2{GdGe}A>e [2 {AGAG}A2{g}A>e ] {g}d>B{d}G{d}B |\
+{g}A2{GdGe}A>{d}B {g}A>B{GdG}c>d | {g}e<g{a}d<g {a}B>{d}G{e}G{d}B :|
+\
+{gAGAG}A2a>g a2{GdGe}A>{d}B | {gAGAG}A2a>f {a}g2{GdGe}G{d}B |\
+{gAGAG}A2a>g a2{GdG}a>g | {a}e<g{a}d<g {a}B>{d}G{e}G>{d}B |\
+{gAGAG}A>ae<a c2{GdGe}A{d}B | {gAGAG}A>ae>f {a}a>G{de}d>B |\
+{gAGAG}A>ag>a f<ae>g | {a}f<ae>f {a}g>G{de}d>c ||
+\
+{g}B2{GdGe}B{d}c {g}f>B{G}B>{d}c | {g}B2{GdGe}B{d}c {gef}e>A{gef}e>c |\
+{g}B2{GdGe}B{d}c {Gdc}d2{gdG}de | {gfg}f2{g}e>d {g}c>{d}A{e}A{d}c :|
+\
+{GdGcG}B2{g}f>e {g}f>B{G}B>c | {GdGcG}B2a>f {gef}e>A{gef}e>c |\
+{GdGcG}B2{g}f>e {g}f>B{g}f>g |\
+{ag}a2{ef}e>c [1 {g}c>{d}A{e}A>d{c} [2 {g}c<{e}A{d}c<a :|
+\
+A>B{GdG}c>d {gef}e>A{d}c<a | A>B{GdG}c>d {gde}d>G{d}B<a |\
+A>B{GdG}c>d {gef}e>d{g}c>d | {gef}e>c{gde}d>A {g}B>{d}G{e}G>{d}B |\
+A>B{GdG}c>d {gef}e>A{d}c<a | A>B{GdG}c>d {gde}d>G{d}B<a |\
+{AGAG}A2{gef}e>c {gfg}f>d{gef}e>c | {gde}d>B{g}c<{e}A {g}B>{d}G{e}G>{d}B ||
+\
+{gAGAG}A>aA>a g<{a}A{gef}e>c | {gAGAG}A>aA>a g<{a}G{gde}d>B |\
+{gAGAG}A>aA>a g<a{ef}e>g | {a}f<ae>f {a}g>G{gde}d>B |\
+{ag}a2g<{a}e a2{GdGe}A{d}B | {ag}a2g<{a}e {a}g2{GdGe}G{d}B |\
+{ag}a2{g}a2 (3efg a2 | (3efg {fg}f>d {a}g>G{d}G>{d}B ||
+\
+{gAGAG}A>e{g}A>e {A}e>A{gef}e>c | {gAGAG}A>e{g}A>e {A}e>G{gde}d>B |\
+{gAGAG}A>e{g}A>e {g}d>e{A}e>d | {g}B>d{G}d>e {A}e>G{gde}d>B :|
+\
+{gAGAG}A2{gf}g2 a2{GdGe}A{d}B | {gAGAG}A2a>f {a}g2{GdGe}G{d}B |\
+{gAGAG}A2{ag}a2 {AGAG}A>a{AGAG}A>a | {g}a2{AGAG}A>a g>G{d}G>{d}B |\
+{gAGAG}A2{gf}g2 a2{GdGe}A{d}B | {gAGAG}A2a>f {a}g2{GdGe}G{d}B |\
+{gAGAG}A2{ag}a2 (3efg a2 | (3efg {fg}f>d {a}g>G{d}G>{d}B |]

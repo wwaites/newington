@@ -3,23 +3,24 @@
   <head>
     <title>{{page.title}}</title>
     <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      .container img { width: 100%; }
+      #download { float: right; }
+    </style>
   </head>
   <body>
     <div class="container">
-      <h1>{{page.title}}</h1>
-      <pre id="tune">
-{{content}}</pre>
+      <div id="download">
+        <a class="btn btn-small" href="{{page.tune}}.abc">abc</a>
+        <a class="btn btn-small" href="{{page.tune}}.pdf">pdf</a>
+      </div> 
+    </div>
+    <div class="container">
       <div id="notation" class="content">
+{{content}}
       </div>
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="/js/bootstrap.min.js"></script>
-    <script src="/js/abcjs_basic_1.4-min.js"></script>
-    <script>
-      $(document).ready(function () {
-        var abc = $("#tune").hide().text();
-        ABCJS.renderAbc("notation", abc);
-      });
-    </script>
   </body>
 </html>

@@ -1,0 +1,45 @@
+X:1
+T:Lord Alexander Kennedy
+R:March
+M:2/4
+L:1/16
+K:Hp
+{g}e<a | A2{GdGe}A2 {GAG} A2>{d}B2 | {g}A>d{g}f<a {ef}e4 |\
+{Gdc}d2{g}c>d [1 {g}f2{g}e>A [2 {g}f>e{g}c<{d}A ] |\
+{gcd}c2{e}B2 {GdGe}B2{g}e<a | \
+A2{GdGe}A2 {GAG} A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|
+\
+{g}c>d | {gef}e4 {g}e>A{d}c<e | {gfg}f4 {g}f>d{g}f<a |\
+{Gdc}d2{g}c>d [1 {g}f2{g}e>A [2 {g}f>e{g}c<{d}A ] |\
+{gcd}c2{e}B2 {GdGe}B2 [1 {g}c>d |\
+{gef}e4 {g}e>A{d}c<e | {gfg}f4 {g}f>d{g}f<a |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2{g}c>d :|\
+[2 a>f | {gef}e2{gAGAG}A2 {g}A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 ||
+\
+{ag}a2 | {GAG}A2{d}c<e {g}A>d{g}f<a | {Gdc}d2{g}f<a {ef}e4 |\
+{Gdc}d2{g}c>d [1 {g}f2{g}e>A [2 {g}f>e{g}c<{d}A ] |\
+{gcd}c2{e}B2 {GdGe}B2 [1 {ag}a2 |
+{GAG}A2{d}c<e {g}A>d{g}f<a | {Gdc}d2{g}f<a {ef}e2>d2 |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2{ag}a2 :|\
+[2 a>f | {gef}e2{gAGAG}A2 {g}A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 ||
+\
+{g}c>d | {gef}e2{g}c<e {gef}e>A{g}c<{d}A | {gfg}f2{g}d>f {gef}e2{g}c<{d}A |\
+{Gdc}d2{g}f<a {ef}e>A{g}c<{d}A | {gcd}c2{e}B2 {GdGe}B2 {g}c>d |\
+{gef}e2{g}c<e {gef}e>A{g}c<{d}A | {gfg}f2{g}d>f {gef}e2{g}c<{d}A |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|
+\
+{ag}a2 | A>d{g}f<a A>d{g}f<a | {Gdc}d2{g}f<a {Gdc}d>ag<a |\
+{gcd}c2{g}e<a {gcd}c2{g}e<a | G>{g}Bd>f {ag}a4 |\
+A>d{g}f<a A>d{g}f<a | {Gdc}d2{g}f<a {Gdc}d>ag<a |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|
+\
+{g}c<d | {gef}e>{g}A{d}c<a {ef}e>{g}A{d}c<a | {fg}f>{g}Bd<a {fg}f>{g}Bd<a |\
+{gef}e>{g}A{d}c<a {ef}e>A{d}c<g | [1 B>{d}G{d}B<g B>{d}G{d}B<a |\
+{gef}e>{g}A{d}c<a {ef}e>{g}A{d}c<a | {fg}f>{g}Bd<a {fg}f>{g}Bd<a |\
+c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|\
+[2 B>{d}G{d}B<d {g}e>g{a}f<a |\
+{ef}e2{gAGAG}A2 {g}A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
+{g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 |]
