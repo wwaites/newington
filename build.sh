@@ -1,5 +1,7 @@
 #!/bin/sh
 
+rm -f newington.abc
+
 for abc in *.abc; do
     name=`echo $abc | sed -e 's/\.abc$//'`
     title=`grep '^T:' ${abc} | sed -e 's/^T: *//'`
@@ -21,4 +23,9 @@ EOF
         echo "<img src=\"${img}\" />" >> ${name}.html
     done
 done
-    
+
+sh abccat.sh *.abc > newington.abc
+abcm2ps -l -O newington.ps newington.abc
+ps2pdf newington.ps
+rm -f newington.ps
+
