@@ -26,6 +26,20 @@ Reels
 * [The Bagad Reel](bagad.html)
 * [Miss Popple's Reel](popple.html)
 
+Hornpipes
+---------
+
+* [Duncan Johnstone](johnstone.html)
+* [Farewell to Erin](erin.html)
+* [Jimmy Blue](blue.html)
+
+Jigs
+----
+
+* [Donald Willie and his Dog](donaldwillie.html)
+* [The Fox Hunter](foxhunter.html)
+* [Alan MacPherson of Mosspark](mosspark.html)
+
 Airs
 ----
 
