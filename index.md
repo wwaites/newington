@@ -37,6 +37,7 @@ Reels
 Hornpipes
 ---------
 
+* [The Clumsy Lover](lover.html)
 * [Duncan Johnstone](johnstone.html)
 * [Farewell to Erin](erin.html)
 * [Jimmy Blue](blue.html)
