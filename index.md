@@ -38,6 +38,7 @@ Hornpipes
 * [Duncan Johnstone](johnstone.html)
 * [Farewell to Erin](erin.html)
 * [Jimmy Blue](blue.html)
+* [Sandy's New Chanter](chanter.html)
 * [Unknown (Bruce Gandy)](unknown-1.html)
 
 Jigs
