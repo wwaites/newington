@@ -9,8 +9,9 @@ Download the whole collection:
 Marches
 -------
 
-* [Lord Alexander Kennedy](kennedy.html)
+* [Blarich House](blarich.html)
 * [The Knightswood Ceilidh](knightswood.html)
+* [Lord Alexander Kennedy](kennedy.html)
 * [Farewell to Nigg](nigg.html)
 
 Strathspeys
