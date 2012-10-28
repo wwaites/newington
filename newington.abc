@@ -28,9 +28,9 @@ f2 | {g}A3B {G}A3d | {gBd}B>A{g}B>d {G}A2{g}d>e |\
 {g}B>c{g}d2 {GBG}A3d | {g}e2{GdG}e>f {gef}e2{g}d>e |
 {g}f>d{g}f<a g>f{g}e>d | {g}B>c{g}d2 {GBG}A2{g}d>e |\
 {gfg}f2e>d {g}B<{d}A{g}B>c | {Gdc}d4 {gdc}d2 :|
-f2 | {g}A>{d}A{e}A>{d}B {g}A>B{g}d>A | {gBd}B>A{g}B<d {g}A>d{g}f>d |\
+f2 | {g}A>{d}A{e}A>{d}B {g}A>B{gde}d>A | {gBd}B>A{g}B<d {g}A>d{g}f>d |\
 {g}f>{g}Aa>f {a}g>f{g}e>d | {g}e4 {GdG}e3f |
-{g}A>{d}A{e}A>{d}B {g}A>B{g}d>B | {gBd}B>A{g}B<d {g}A2{g}d>e |\
+{g}A>{d}A{e}A>{d}B {g}A>B{gde}d>B | {gBd}B>A{g}B<d {g}A2{g}d>e |\
 {gfg}f2e>d {gBd}B2{g}A>B | {Gdc}d4 {gdc}d2 :|]
 
 
