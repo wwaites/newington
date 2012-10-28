@@ -2,7 +2,11 @@
 
 rm -f newington.abc
 
-for abc in *.abc; do
+if test $# -eq 0; then
+    set *.abc
+fi
+
+for abc in $*; do
     name=`echo $abc | sed -e 's/\.abc$//'`
     title=`grep '^T:' ${abc} | sed -e 's/^T: *//'`
 cat > ${name}.html <<EOF

@@ -17,6 +17,7 @@ Strathspeys
 -----------
 
 * [The Cameronian Rant](cameronian.html)
+* [Miss Drummond of Perth](drummondofperth.html)
 * [Struan Robertson](robertson.html)
 
 Reels
@@ -39,9 +40,10 @@ Hornpipes
 Jigs
 ----
 
+* [Alan MacPherson of Mosspark](mosspark.html)
+* [Annette's Chatter](chatter.html)
 * [Donald Willie and his Dog](donaldwillie.html)
 * [The Fox Hunter](foxhunter.html)
-* [Alan MacPherson of Mosspark](mosspark.html)
 
 Airs
 ----
