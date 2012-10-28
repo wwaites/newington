@@ -27,7 +27,7 @@ A2{GdGe}A2 {GAG} A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
 {g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 ||
 \
 {g}c>d | {gef}e2{g}c<e {gef}e>A{g}c<{d}A | {gfg}f2{g}d>f {gef}e2{g}c<{d}A |\
-{Gdc}d2{g}f<a {ef}e>A{g}c<{d}A | {gcd}c2{e}B2 {GdGe}B2 {g}c>d |\
+{Gdc}d2{g}f<a {ef}e>A{g}c<{d}A | {gcd}c2{e}B2 {GdGe}B2{g}c>d |\
 {gef}e2{g}c<e {gef}e>A{g}c<{d}A | {gfg}f2{g}d>f {gef}e2{g}c<{d}A |\
 {g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|
 \
@@ -37,7 +37,7 @@ A>d{g}f<a A>d{g}f<a | {Gdc}d2{g}f<a {Gdc}d>ag<a |\
 {g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|
 \
 {g}c<d | {gef}e>{g}A{d}c<a {ef}e>{g}A{d}c<a | {fg}f>{g}Bd<a {fg}f>{g}Bd<a |\
-{gef}e>{g}A{d}c<a {ef}e>A{d}c<g | [1 B>{d}G{d}B<g B>{d}G{d}B<a |\
+{gef}e>{g}A{d}c<a {ef}e>A{d}c<g | [1 {g}B>{d}G{d}B<g {g}B>{d}G{d}B<a |\
 {gef}e>{g}A{d}c<a {ef}e>{g}A{d}c<a | {fg}f>{g}Bd<a {fg}f>{g}Bd<a |\
 c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|\
 [2 B>{d}G{d}B<d {g}e>g{a}f<a |\
