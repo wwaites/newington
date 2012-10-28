@@ -35,5 +35,16 @@
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
     <script src="js/share.js"></script>
+    <script>
+      $(document).ready(function () {
+        var notes = $("#notes");
+        if (notes.text().length > 0) {
+          notes
+            .prepend("<b>Note:</b> ")
+            .addClass("alert")
+            .addClass("alert-info")
+        } 
+      });
+    </script>
   </body>
 </html>

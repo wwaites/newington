@@ -26,6 +26,9 @@ EOF
         git add ${img}
         echo "<img src=\"${img}\" />" >> ${name}.html
     done
+    echo '<div id="notes">' >> ${name}.html
+    grep '^N:' ${name}.abc | sed -e 's/^N://' >> ${name}.html
+    echo '</div>' >> ${name}.html
 done
 
 sh abccat.sh *.abc > newington.abc
