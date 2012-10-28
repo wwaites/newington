@@ -29,7 +29,7 @@ Reels
 * [Charlie's Welcome](charlie.html)
 * [The Little Cascade](cascade.html)
 * [Miss Popple's Reel](popple.html)
-* [Le Tablier du Maçon](tablier.html)
+* [Le Tablier du Macon](tablier.html)
 * [The Wise Maid](wisemaid.html)
 
 Hornpipes
