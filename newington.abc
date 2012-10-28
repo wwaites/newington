@@ -538,6 +538,22 @@ c<{d}A {gef}e>A {g}c>d {g}e<a | \
 (3gfe {g}(3fga {f}g2 {a}e<a ||
 
 X: 23
+T:Unknown
+C:Bruce Gandy
+S:Hornpipe
+M:2/4
+L:1/16
+K:Hp
+a2 | f2ef BBdB | (3cBAeA AecA | fe(3fga fedB | cAec BBBc |
+(3fgafe fedB | cAeA AecA | fddd edcA | BBBA B2 :|
+AB | d2fd gfed | (3cBAeA AecA | ddfd edcA | Bddc d2AB |
+d2fd gfed | (3cBAeA AecA | fddd edcA | BBBA B2 :|
+a2 | fBaB BaBB | (Bc)cB Ae(3cBA | fBaB BaBB | (3cBAec BBBc |
+fBaB BaBB | (Bc)cB Ae(3cBA | fddd edcA | BBBA B2 :|
+AB | dAfA AfAA | eAgA AgAA | fddd edcA | Bddc d2AB |
+dAfA AfAA | eAgA AgAA | fddd edcA | BBBA B2 :|
+
+X: 24
 T:The Wise Maid
 R:Reel
 M:C|

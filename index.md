@@ -38,11 +38,12 @@ Hornpipes
 * [Duncan Johnstone](johnstone.html)
 * [Farewell to Erin](erin.html)
 * [Jimmy Blue](blue.html)
+* [Unknown (Bruce Gandy)](unknown-1.html)
 
 Jigs
 ----
 
-* [Alan MacPherson of Mosspark](mosspark.html)
+* [Alan MacPhearson of Mosspark](mosspark.html)
 * [Annette's Chatter](chatter.html)
 * [Donald Willie and his Dog](donaldwillie.html)
 * [The Fox Hunter](foxhunter.html)
