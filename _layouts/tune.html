@@ -2,7 +2,11 @@
 <html>
   <head>
     <title>{{page.title}}</title>
-    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+    <link rel="alternate" type="application/pdf" href="{{page.tune}}.pdf"
+        title="{{page.title}} (PDF)" />
+    <link rel="alternate" type="text/vnd.abc" href="{{page.tune}}.abc"
+        title="{{page.title}} (ABC Notation)" />
     <style>
       .container img { width: 100%; }
       #download { float: right; }
@@ -10,10 +14,14 @@
   </head>
   <body>
     <div class="container">
-      <div id="download">
-        <a class="btn btn-small" href="{{page.tune}}.abc">abc</a>
-        <a class="btn btn-small" href="{{page.tune}}.pdf">pdf</a>
-      </div> 
+      <ul id="download" class="nav nav-pills">
+        <li class="disabled"><a href="#">Download:</a></li>
+        <li><a href="{{page.tune}}.abc">abc</a></li>
+        <li><a href="{{page.tune}}.pdf">pdf</a></li>
+      </ul>
+      <ul class="nav nav-pills">
+        <li><a href="../">Contents</a></li>
+      </ul>
     </div>
     <div class="container">
       <div id="notation" class="content">
