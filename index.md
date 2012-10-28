@@ -24,12 +24,13 @@ Strathspeys
 Reels
 -----
 
-* [Charlie's Welcome](charlie.html)
-* [The Little Cascade](cascade.html)
-* [The Wise Maid](wisemaid.html)
 * [The Border Reel](border.html)
 * [The Bagad Reel](bagad.html)
+* [Charlie's Welcome](charlie.html)
+* [The Little Cascade](cascade.html)
 * [Miss Popple's Reel](popple.html)
+* [Le Tablier du Maçon](tablier.html)
+* [The Wise Maid](wisemaid.html)
 
 Hornpipes
 ---------
