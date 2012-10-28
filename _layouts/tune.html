@@ -10,6 +10,7 @@
     <style>
       .container img { width: 100%; }
       #download { float: right; }
+      #share { float: right; padding-top: 7px; }
     </style>
   </head>
   <body>
@@ -18,6 +19,9 @@
         <li class="disabled"><a href="#">Download:</a></li>
         <li><a href="{{page.tune}}.abc">abc</a></li>
         <li><a href="{{page.tune}}.pdf">pdf</a></li>
+      </ul>
+      <ul id="share" class="nav">
+        <li><a id="shareNice" share-label="Share"></a></li>
       </ul>
       <ul class="nav nav-pills">
         <li><a href="./">Contents</a></li>
@@ -30,5 +34,6 @@
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/share.js"></script>
   </body>
 </html>

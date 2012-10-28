@@ -3,9 +3,15 @@
   <head>
     <title>{{page.title}}</title>
     <link href="css/bootstrap.min.css" rel="stylesheet">
+    <style>
+      #share { float: right; padding-top: 7px; }
+    </style>
   </head>
   <body>
     <div class="container">
+      <ul id="share" class="nav">
+        <li><a id="shareNice" share-label="Share"></a></li>
+      </ul>
       <h1>{{page.title}}</h1>
       <div class="content">
 {{content}}
@@ -13,5 +19,6 @@
     </div>
     <script src="http://code.jquery.com/jquery-latest.js"></script>
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/share.js"></script>
   </body>
 </html>
