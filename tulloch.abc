@@ -1,0 +1,38 @@
+X:2
+T:Tulloch Gorm
+R:Strathspey
+M:C
+L:1/8
+K:Hp
+a | c<{d}A {gef}e>A {Gdc}d<{e}G {gBd}B2 | \
+c<{d}A {gef}e>A {g}c>d {g}e<a | \
+c<{d}A {gef}e>A {Gdc}d<{e}G {gBd}B2 | \
+{g}c<{d}A {gef}e>A {gcd}c2 {g}(3Bcd |
+c<{d}A {gef}e>A {Gdc}d<{e}G {gBd}B2 | \
+c<{d}A {gef}e>A {g}c>d {g}e<a | \
+{fg}f>A {gef}e>A {Gdc}d<{e}G {gBd}B2 | \
+{g}c<{d}A {gef}e>A {gcd}c2 {e}B<{d}c ||
+{GAG}A<a {ef}e>f {gf}g<{a}G {gBd}B2 | \
+{GAG}A>a {ef}e<a {cd}c<a {ef}e>c | \
+{GAG}A<a {ef}e>f {gf}g<{a}G {gBd}B2 | \
+{GAG}A<a {ef}e<a {cd}c2 {e}B<{d}c |
+{GAG}A<a {ef}e>f {gf}g<{a}G {gBd}B2 | \
+{GAG}A>a {ef}e>f {gf}g>e {ag}a>e | \
+{gf}g>a (3gfe {Gdc}d<{e}G {gBd}B<a | \
+(3gfe {g}(3fga {f}g2 {a}e<a ||
+{gcd}c<{e}A {g}c<{GdG}e {Gdc}d<{e}G {g}(3Bcd | \
+{gcd}c<{e}A {g}c<{GdG}e {gfg}f>A {gef}e>A | \
+{gf}g>A {gef}e>c {gBd}B<{e}G {g}(3Bcd | \
+{gcd}c<{e}A {g}c<{GdG}e {gcd}c2 {g}(3Bcd |
+{gcd}c<{e}A {g}c<{GdG}e {Gdc}d<{e}G {g}(3Bcd | \
+{gcd}c<{e}A {g}c<{GdG}e {gfg}f>A {gef}e>A | \
+{gf}g>A {gef}e>c {gBd}B<{e}G {g}(3Bcd | \
+{gcd}c<{e}A {gef}e>A {g}(3Bcd {gcd}c<{e}B ||
+{GAG}A<a (3efg {Gdc}d<{e}G {gBd}B2 | \
+{GAG}A>a {ef}e<a {cd}c<a {ef}e>c | \
+{GAG}A<a (3efg {Gdc}d<{e}G {gBd}B2 | \
+{GAG}A<a {ef}e<a {cd}c2 {e}B<{d}c |
+{GAG}A<a (3efg {Gdc}d<{e}G {gBd}B2 | \
+{GAG}A>a {ef}e>f {gf}g>e {ag}a>e | \
+{gf}g>a (3gfe {Gdc}d<{e}G {gBd}B<a | \
+(3gfe {g}(3fga {f}g2 {a}e<a ||
