@@ -4,10 +4,8 @@ R:Reel
 M:C|
 L:1/8
 K:Hp
-BBcA B2ce | f2ae fecB | AAcB AAcd | e2fc ecdc |
-BBcA B2ce | f2ae fecB | Acae fece | f2B2 B2ce ||
-f2ae fece | f2B2 B2cd | e2fc eacB | A2Ac efce |
-f2ae fece | fBBa f2ec | Acae fece | f2B2 B4 |]
+f2BB dcde | f2Bd cAce | f2BB dcBd | [1 cAce acde :| [2 cAce acdc ||
+BBfB Bfdc | BBfd ecdc | BBfB Bfdc | AAce acdc :|
 
 X: 2
 T:Jimmy Blue
@@ -34,8 +32,10 @@ R:Reel
 M:C|
 L:1/8
 K:Hp
-f2BB dcde | f2Bd cAce | f2BB dcBd | [1 cAce acde :| [2 cAce acdc ||
-BBfB Bfdc | BBfd ecdc | BBfB Bfdc | AAce acdc :|
+BBcA B2ce | f2ae fecB | AAcB AAcd | e2fc ecdc |
+BBcA B2ce | f2ae fecB | Acae fece | f2B2 B2ce ||
+f2ae fece | f2B2 B2cd | e2fc eacB | A2Ac efce |
+f2ae fece | fBBa f2ec | Acae fece | f2B2 B4 |]
 
 X: 4
 T:The Cameronian Rant
