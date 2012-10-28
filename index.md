@@ -1,6 +1,6 @@
 ---
 layout: default
-title: The Newington Collection of Pipe Tunes
+title: The Newington Collection
 ---
 
 Download the whole collection:
