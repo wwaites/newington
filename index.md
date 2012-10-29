@@ -29,6 +29,7 @@ Reels
 * [The Border Reel](border.html)
 * [The Bagad Reel](bagad.html)
 * [Charlie's Welcome](charlie.html)
+* [Christie MacLeod](christie.html)
 * [The Little Cascade](cascade.html)
 * [Miss Popple's Reel](popple.html)
 * [Le Tablier du Macon](tablier.html)
@@ -58,3 +59,9 @@ Airs
 * [The Eastern Townships](townships.html)
 * [Lament for Jeff Ar Penven](penven.html)
 * [The Sleeping Tune](sleeping.html)
+
+Piobaireachd
+------------
+
+* [MacLeod's Lament (Lament for the Harp Tree)](harptree.html)
+
