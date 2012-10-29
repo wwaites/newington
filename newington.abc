@@ -268,6 +268,30 @@ A2c ABB c2B | A2c Acc B3 | A2c ABB c2B | c2A ABG A3 :|
 e2c cfd e2c | cec cdc B3 | e2c cfd e2d | c2A ABG A3 :|
 
 X: 12
+T:The Laird of Drumblair
+C:Donald Shaw Ramsay (arr)
+R:Strathspey
+M:C
+L:1/8
+K:Hp
+e | {gAGAG}A2 {gcd}c>B {g}A>{d}c {gef}e>c |\
+{ag}a2 g>a f<a {ef}e>c |\
+{g}(3def {g}(3efg (3aed {g}(3cBA |\
+{g}(3Bcd {g}(3cBA {g}(3BAG {g}(3dcB |
+{gAGAG}A2 {gcd}c>B {g}A>{d}c {gef}e>c |\
+{ag}a2 g>a f<a {ef}e>c |\
+{g}(3def {g}(3efg (3aed {g}(3cBA |\
+{g}(3BAG {g}(3dcB {gAGAG}A2 ||
+{g}c<e | {ag}a2 {ef}e>a {cd}c>a e<a |\
+{AGAG}A2 {gcd}c<e {ag}a>e {gcd}c>e |\
+{g}f<a {ef}e>a {Gdc}d>a {cd}c>a |\
+(3Bcd {g}(3efg (3agf {g}(3efg |
+{ag}a2 {ef}e>a {cd}c>a e<a |\
+{AGAG}A2 {gdc}c<e {ag}a>e {gcd}c>e |\
+{g}(3def {g}(3efg (3aed {g}(3cBA |\
+{g}(3BAG {g}(3dcB {gAGAG}A2 |]
+
+X: 13
 T:Miss Drummond of Perth
 A:Neil Gow
 R:Strathspey
@@ -287,7 +311,7 @@ e | {ag}a2 {ef}e>a {cd}c<a {ef}e>f | \
 (3agf {gf}g>e {gfg}f>d {g}(3efg | \
 {ag}a>e {gf}g>B {g}A2 {GdGe}A |]
 
-X: 13
+X: 14
 T:Farewell to Erin
 R:Hornpipe
 M:2/4
@@ -302,7 +326,7 @@ eA(3AAA eA(3AAA | (3BcddB G2g2 | edeg a2ea | gedg aA(3AAA :|
 aece aece | gdBd gdBd | aece aeca | gedg eA(3AAA |
 agef gage | dcdB GABd | (3cBAeA Bdef | gedg eA(3AAA :|
 
-X: 14
+X: 15
 T:J. A. D. of Evergreen
 C:Alec MacNeill
 R:March
@@ -319,7 +343,7 @@ e | {g}A>{d}c{e}B {G}A3 | {g}A>{d}cf {gef}e3 | {ag}a2e {gef}e>dc | {gde}d>cd {gB
 a>e{A}e {g}f>e{A}e | {g}A>{d}cf {g}e>fg | a>e{A}e {gde}d>cB | {g}A>{d}c{e}B {G}A2 :|
 [2 e | {g}A>B{GdG}c {gcd}c>B{G}A | {Gdc}d>ef {g}e>fg | a>e{A}e {gde}d>cB | {g}A>{d}c{e}B {G}A3 |]
 
-X: 15
+X: 16
 T:The Fox Hunter
 R:Slip Jig
 M:9/8
@@ -331,7 +355,7 @@ cAc cAc d2B | cAc cAc B2A | cAc cAc d2f | ecA ABc B2A :|
 cdc cAc d2B | cdc cAc B2A | cdc cAc d2f | ecA ABc B2A :|
 cac cac d2B | cac cac B2A | cac cac d2f | ecA ABc B2A :|
 
-X: 16
+X: 17
 T: McLeod's Lament
 R:Piobaireachd
 M:8/4
@@ -358,7 +382,7 @@ a>fa2 f>e{g}f2 e>c{g}e2 {g}e>ca2 |\
 {g}f>e{g} c<f {g}e>c {g}B<e {g}c>B G<{d}B {ged}A{GAG}A |]
 
 
-X: 17
+X: 18
 T:Duncan Johnstone
 R:Hornpipe
 M:2/4
@@ -375,7 +399,7 @@ eg | (3aaaag aeeg | (3aaaag a2eg | gage degf | egde BdGB |
 [1 (3aaaag aeeg | (3aaaag a2ef | gaag egBd | e2A2 A2 :|
 [2 e2de Aede | eABd e2g2 | eaag egBd | e2A2 A2 |]
 
-X: 18
+X: 19
 T:Lord Alexander Kennedy
 R:March
 M:2/4
@@ -421,7 +445,7 @@ c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 :|\
 {ef}e2{gAGAG}A2 {g}A2>{d}B2 | {g}A>d{g}f<a {ef}e2>d2 |\
 {g}c<e{g}A>{d}c {g}B<d{e}G>{d}B | {g}A4 {GAG} A2 |]
 
-X: 19
+X: 20
 T:The Knightswood Ceilidh
 M:2/4
 L:1/8
@@ -465,7 +489,7 @@ g3/4A/4{g}B/4d3/4 {gef}e3/2{gf}g | \
 {ag}ae/4a3/4 g3/4e/4{g}d/4g3/4 | \
 {aBd}B{e}A {GAG}A :|| 
 
-X: 20
+X: 21
 T:The Clumsy Lover
 C:Neil Dickie
 S:Hornpipe
@@ -489,7 +513,7 @@ K:Hp
 ca{g}ae a{g}aca | da{g}af a{g}ada |\
 ce{A}ec {gdedc}d2{g}G{d}B | {g}B{d}A{e}A{d}B {AGAG}A2 :|]
 
-X: 21
+X: 22
 T:Alan MacPhearson of Mosspark
 R:Jig
 M:6/8
@@ -506,7 +530,7 @@ e | (4aaaa a2e | aef ceA | dcc ceA | cBB BBe |
 [1 (4aaaa a2e | aef ceA | dcc eBe | A3 A2 :|
 [2 fae fce | AAA ace | dcc eBe | A3 A2 |]
 
-X: 22
+X: 23
 T:Farewell To Nigg
 M:3/4
 L:1/8
@@ -520,7 +544,7 @@ f2 B2 de | c>B A2 d>e | f2 e>c Ac | B4 :|
 d>e | f2 fa f>e | f2 B2 d>e | f2 fa f>e | c4 a>e |
 f2 B2 de | c>B A2 ce | f2 e>c Ac | B4 :|
 
-X: 23
+X: 24
 T:Lament for Jeff Ar Penven
 R:Air
 C:Robert Mathieson
@@ -538,7 +562,7 @@ M:6/8
 f2 a f>ed | e2f Bcd | e2f a>ga | (f3 f2)e |\
 f2 a f>ed | e2f Bcd | e2f d2c | c(B2 B3) :|
 
-X: 24
+X: 25
 T:Miss Popple's Reel
 S:Reel
 M:C|
@@ -548,7 +572,7 @@ B2 f>d B>df>d | c>ea>f g>ed>c | B2 f>d (3Bcdf>d | c>ea>c B4 :|
 g2 e>f g>ea>g | f2 d>e f>dg>f | e2 c>d e>cf>e | d(ee)(f f)d3 |
 g>ee>f g>ea>g | f>dd>e f>dg>f | e>cc>d e>cf>e | dcc(d d4) :|
 
-X: 25
+X: 26
 T:Struan Robertson
 M:C
 L:1/8
@@ -579,7 +603,7 @@ g/2f/2e {ag}a3/2c/2 {gBG}B2 {gfg}f2 :|
 {gfg}f3/2d/2 {gef}e3/2c/2 {Gdc}d/2{e}B3/2 {gcd}c/2{e}A3/2 | \
 {Gdc}d3/2f/2 {gef}e3/2c/2 {gBG}B2{gfg} f2|]
 
-X: 26
+X: 27
 T:The Sleeping Tune
 R:Air
 C:Gordon Duncan
@@ -595,7 +619,7 @@ K:Hp
 {Gdc}d2 {ag}a4 cd | ac {g}da cd {gde}dB | {gcd}c2 {ag}a4 c{g}B | {gcd}c2 {gcd}cb {g}ce {g}dc |
 {gBd}B2 {ag}a4 B{d}A | {GdG}(B4 B)(c c)B | {GdG}(c4 c)(d d)e | {gef}e4 {g}ef {g}dc |]
 
-X: 27
+X: 28
 T:Le Tablier du Macon
 R:Reel
 M:C|
@@ -636,7 +660,7 @@ c{d}A{g}eA {g}fA{g}ed |\
 {gef}ed{gcd}cB {GAG}A2 :|]
 
 
-X: 28
+X: 29
 T:The Eastern Townships
 R:Air
 C:Michael Grey
@@ -648,7 +672,7 @@ A>BA A>Bd | e3 a2f | g>fd e<BG | A3 A2 :|
 e/2f/2 | g>fd e>ag | f>dB d>ef | g>fd e<BA | G>BA B2e/2f/2 |
 g>fd e>ag | f>dB d>ef | g>fd e<BG | A3 A2 :|
 
-X: 29
+X: 30
 T:Tulloch Gorm
 R:Strathspey
 M:C
@@ -687,7 +711,7 @@ c<{d}A {gef}e>A {g}c>d {g}e<a | \
 {gf}g>a (3gfe {Gdc}d<{e}G {gBd}B<a | \
 (3gfe {g}(3fga {f}g2 {a}e<a ||
 
-X: 30
+X: 31
 T:Unknown
 C:Bruce Gandy
 S:Hornpipe
@@ -703,7 +727,7 @@ fBaB BaBB | (Bc)cB Ae(3cBA | fddd edcA | BBBA B2 :|
 AB | dAfA AfAA | eAgA AgAA | fddd edcA | Bddc d2AB |
 dAfA AfAA | eAgA AgAA | fddd edcA | BBBA B2 :|
 
-X: 31
+X: 32
 T:The Wise Maid
 R:Reel
 M:C|

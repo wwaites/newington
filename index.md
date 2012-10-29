@@ -20,6 +20,7 @@ Strathspeys
 
 * [The Cameronian Rant](cameronian.html)
 * [Miss Drummond of Perth](drummondofperth.html)
+* [The Laird of Drumblair](drumblair.html)
 * [Struan Robertson](robertson.html)
 * [Tulloch Gorm](tulloch.html)
 
