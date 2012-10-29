@@ -269,7 +269,7 @@ e2c cfd e2c | cec cdc B3 | e2c cfd e2d | c2A ABG A3 :|
 
 X: 12
 T:The Laird of Drumblair
-C:Donald Shaw Ramsay (arr)
+C:(arr) Donald Shaw Ramsay
 R:Strathspey
 M:C
 L:1/8
@@ -287,7 +287,7 @@ e | {gAGAG}A2 {gcd}c>B {g}A>{d}c {gef}e>c |\
 {g}f<a {ef}e>a {Gdc}d>a {cd}c>a |\
 (3Bcd {g}(3efg (3agf {g}(3efg |
 {ag}a2 {ef}e>a {cd}c>a e<a |\
-{AGAG}A2 {gdc}c<e {ag}a>e {gcd}c>e |\
+{AGAG}A2 {gcd}c<e {ag}a>e {gcd}c>e |\
 {g}(3def {g}(3efg (3aed {g}(3cBA |\
 {g}(3BAG {g}(3dcB {gAGAG}A2 |]
 
@@ -301,15 +301,15 @@ K:Hp
 a | {AGAG}A2 {gef}e>A {g}(3Bcd {gef}e2 | \
 {Gdc}d<g {Bd}B<g {Gdc}d<g {aBd}B<{e}G | \
 {AGAG}A2 {gef}e>A {g}(3Bcd {g}(3efg | \
-{ag}a>e {gf}g>B {g}A2 {GdGe}A :|
+{ag}a>e {gf}g>B {gBd}B<{e}A {AGAG}A :|
 e | {ag}a2 {ef}e>a {cd}c<a {ef}e>f | \
 {gf}g2 {Gdc}d<g {Bd}B<g {Gdc}d>e | \
 {ag}a2 {ef}e>a {cd}c<a (3efg | \
-{ag}a>e {gf}g>B {g}A2 {GdGe}A>e |
+{ag}a>e {gf}g>B {gBd}B<{d}A {AGAG}A>e |
 {ag}a2 {ef}e>a {cd}c<a {ef}e>f | \
 {gf}g2 {Gdc}d<g {Bd}B<g {Gdc}d>e | \
 (3agf {gf}g>e {gfg}f>d {g}(3efg | \
-{ag}a>e {gf}g>B {g}A2 {GdGe}A |]
+{ag}a>e {gf}g>B {gBd}B<{e}A {AGAG}A |]
 
 X: 14
 T:Farewell to Erin
