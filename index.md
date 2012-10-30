@@ -53,6 +53,7 @@ Jigs
 * [Annette's Chatter](chatter.html)
 * [Donald Willie and his Dog](donaldwillie.html)
 * [The Fox Hunter](foxhunter.html)
+* [Lamb Skinnet](lamb.html)
 
 Airs
 ----
