@@ -32,6 +32,8 @@ Reels
 * [Charlie's Welcome](charlie.html)
 * [Christie MacLeod](christie.html)
 * [The Little Cascade](cascade.html)
+* [The Owl](owl.html)
+* [Miss Mackay](mackay.html)
 * [Miss Popple's Reel](popple.html)
 * [Le Tablier du Macon](tablier.html)
 * [The Wise Maid](wisemaid.html)
