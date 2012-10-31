@@ -27,8 +27,9 @@ Strathspeys
 Reels
 -----
 
-* [The Border Reel](border.html)
 * [The Bagad Reel](bagad.html)
+* [The Border Reel](border.html)
+* [Brenda Stubert](brenda.html)
 * [Charlie's Welcome](charlie.html)
 * [Christie MacLeod](christie.html)
 * [The Little Cascade](cascade.html)
