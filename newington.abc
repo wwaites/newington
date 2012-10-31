@@ -586,6 +586,19 @@ N:Journal No. 7.
 {ag}a2ea {g}ae{g}c{d}A | {g}dG{g}Bd {g}eA{d}Ae |]
 
 X: 27
+T:The Panda
+C:Gordon Duncan
+R:Jig
+M:6/8
+L:1/8
+K:Hp
+{g}c{d}A{e}A d{e}A{d}A | e{g}e{A}e {g}edc | {g}cd{c}d {e}GdG | {g}cde {g}edB |
+{g}c{d}A{e}A d{e}A{d}A | e{g}e{A}e {g}edc | {g}cd{c}d {g}edB | {g}BAG {gAGAG}A3 :|
+g{a}e{A}e {g}efg | aea g{a}e{A}e | {g}cd{c}d {e}GdG | {g}cde {g}edB |
+[1 g{a}e{A}e {g}efg | aea g{a}e{A}e | {g}cd{c}d {g}edB | {g}BAG {gAGAG}A3 :|
+[2 {g}c{d}A{e}A d{e}A{d}A | e{g}e{A}e {g}edc | {g}cd{c}d {g}edB | {g}BAG {gAGAG}A3 :|]
+
+X: 28
 T:Lament for Jeff Ar Penven
 R:Air
 C:Robert Mathieson
@@ -603,7 +616,7 @@ M:6/8
 f2 a f>ed | e2f Bcd | e2f a>ga | (f3 f2)e |\
 f2 a f>ed | e2f Bcd | e2f d2c | c(B2 B3) :|
 
-X: 28
+X: 29
 T:Miss Popple's Reel
 S:Reel
 M:C|
@@ -613,7 +626,7 @@ B2 f>d B>df>d | c>ea>f g>ed>c | B2 f>d (3Bcdf>d | c>ea>c B4 :|
 g2 e>f g>ea>g | f2 d>e f>dg>f | e2 c>d e>cf>e | d(ee)(f f)d3 |
 g>ee>f g>ea>g | f>dd>e f>dg>f | e>cc>d e>cf>e | dcc(d d4) :|
 
-X: 29
+X: 30
 T:Struan Robertson
 M:C
 L:1/8
@@ -644,7 +657,7 @@ g/2f/2e {ag}a3/2c/2 {gBG}B2 {gfg}f2 :|
 {gfg}f3/2d/2 {gef}e3/2c/2 {Gdc}d/2{e}B3/2 {gcd}c/2{e}A3/2 | \
 {Gdc}d3/2f/2 {gef}e3/2c/2 {gBG}B2{gfg} f2|]
 
-X: 30
+X: 31
 T:The Sleeping Tune
 R:Air
 C:Gordon Duncan
@@ -660,7 +673,7 @@ K:Hp
 {Gdc}d2 {ag}a4 cd | ac {g}da cd {gde}dB | {gcd}c2 {ag}a4 c{g}B | {gcd}c2 {gcd}cb {g}ce {g}dc |
 {gBd}B2 {ag}a4 B{d}A | {GdG}(B4 B)(c c)B | {GdG}(c4 c)(d d)e | {gef}e4 {g}ef {g}dc |]
 
-X: 31
+X: 32
 T:Le Tablier du Macon
 R:Reel
 M:C|
@@ -701,7 +714,7 @@ c{d}A{g}eA {g}fA{g}ed |\
 {gef}ed{gcd}cB {GAG}A2 :|]
 
 
-X: 32
+X: 33
 T:The Eastern Townships
 R:Air
 C:Michael Grey
@@ -713,7 +726,7 @@ A>BA A>Bd | e3 a2f | g>fd e<BG | A3 A2 :|
 e/2f/2 | g>fd e>ag | f>dB d>ef | g>fd e<BA | G>BA B2e/2f/2 |
 g>fd e>ag | f>dB d>ef | g>fd e<BG | A3 A2 :|
 
-X: 33
+X: 34
 T:Tulloch Gorm
 R:Strathspey
 M:C
@@ -752,7 +765,7 @@ c<{d}A {gef}e>A {g}c>d {g}e<a | \
 {gf}g>a (3gfe {Gdc}d<{e}G {gBd}B<a | \
 (3gfe {g}(3fga {f}g2 {a}e<a ||
 
-X: 34
+X: 35
 T:Unknown
 C:Bruce Gandy
 S:Hornpipe
@@ -768,7 +781,7 @@ fBaB BaBB | (Bc)cB Ae(3cBA | fddd edcA | BBBA B2 :|
 AB | dAfA AfAA | eAgA AgAA | fddd edcA | Bddc d2AB |
 dAfA AfAA | eAgA AgAA | fddd edcA | BBBA B2 :|
 
-X: 35
+X: 36
 T:The Wise Maid
 R:Reel
 M:C|
